@@ -112,3 +112,4 @@ LinkedIn: [Sumit Padiyar](https://www.linkedin.com/in/sumit-padiyar-15238823a/)
 *This README was generated to give you a comprehensive overview of my skills and experience. Let's connect and grow together!*
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sumit192002&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
