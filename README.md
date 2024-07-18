@@ -1,6 +1,6 @@
 
 
-## Welcome to my GitHub profile! I'm Sumit Padiyar, a passionate and dedicated IT professional with a strong background in Linux administration, containerization, automation, and more. Here's a bit about me, my skills, and my portfolio. Enjoy your stay and feel free to reach out!
+# Welcome to my GitHub profile! I'm Sumit Padiyar, a passionate and dedicated IT professional with a strong background in Linux administration, containerization, automation, and more. Here's a bit about me, my skills, and my portfolio. Enjoy your stay and feel free to reach out!
 
 ---
 
