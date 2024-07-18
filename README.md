@@ -30,7 +30,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![Tech Skills](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 ---
 
@@ -55,7 +54,7 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - Performed system backup and recovery using tools like rsync and tar.
 - Troubleshooted and resolved hardware and software issues in Linux systems.
 
-![Work](https://media.giphy.com/media/l1J3G5lf06vi58EIE/giphy.gif)
+
 
 ---
 
@@ -68,7 +67,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - Developed a modern and responsive design with smooth navigation and interactive elements.
 - Showcased expertise and accomplishments in a visually appealing and user-friendly manner, leveraging containerization for efficient deployment.
 
-![React Portfolio](https://media.giphy.com/media/26xBuP95h1n27KjIY/giphy.gif)
 
 #### **Jenkins CI/CD for NGINX Deployment**
 
@@ -77,7 +75,7 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - The pipeline builds a Docker image containing a custom HTML website.
 - Automated process pushes updates from a Git repository and deploys the web server.
 
-![CI/CD](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
+
 
 ---
 
@@ -95,7 +93,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Adaptability**
 - **Management**
 
-![Soft Skills](https://media.giphy.com/media/l4Ep5Zri7G2U65k7q/giphy.gif)
 
 ---
 
