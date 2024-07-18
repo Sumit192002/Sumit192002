@@ -94,6 +94,8 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Adaptability**
 - **Management**
 
+---
+
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sumit192002&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
