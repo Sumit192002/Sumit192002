@@ -13,7 +13,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - 🌐 GitHub: [Sumit192002](https://github.com/Sumit192002)
 - 💼 LinkedIn: [Sumit Padiyar](https://www.linkedin.com/in/sumit-padiyar-15238823a/)
 
-![Welcome](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 ---
 
 ### 🛠️ Technical Skills
