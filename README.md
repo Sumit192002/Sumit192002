@@ -114,6 +114,11 @@ LinkedIn: [Sumit Padiyar](https://www.linkedin.com/in/sumit-padiyar-15238823a/)
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
 *This README was generated to give you a comprehensive overview of my skills and experience. Let's connect and grow together!*
 
 ---
