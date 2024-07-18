@@ -4,6 +4,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Strong background in Linux administration, ensuring seamless connectivity
+ and performance. Dedicated to maintaining system integrity, implementing
+ best practices, and providing prompt technical support. Continuous learner
+ committed to staying updated with the latest technologies and
+ methodologies in the ever-evolving Linux ecosystem.
 <!--
 **Sumit192002/Sumit192002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
