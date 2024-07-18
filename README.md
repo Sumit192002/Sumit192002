@@ -18,19 +18,21 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 ### 🛠️ Technical Skills
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kvm/kvm-original.svg" title="KVM" alt="KVM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="WSL" alt="WSL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/virtualbox/virtualbox-original.svg" title="Oracle VirtualBox" alt="Oracle VirtualBox" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=kvm&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
-![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![Tech Skills](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+
 
 
 ---
@@ -100,7 +102,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or opportunities to collaborate. Let's create something amazing together!
 
-![Thank You](https://media.giphy.com/media/3o7TKsQ3X82UJw7mec/giphy.gif)
 
 ---
 
