@@ -46,7 +46,7 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 ### 💼 Experience
 
-#### **Prodevance Technologies Benglore | Intern**
+#### **Prodevans Technologies Bangalore | Intern**
 
 - Completed RHCSA and RHCE training.
 - Configured and managed user accounts, permissions, and security settings in Linux environments.
