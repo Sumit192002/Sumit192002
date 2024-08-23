@@ -4,13 +4,6 @@
 
 ---
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit192002&show_icons=true&locale=en&layout=compact" alt="sumit192002" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit192002&" alt="Sumit192002" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit192002&show_icons=true&locale=en" alt="sumit192002" /></p>
-
-
-
 ### 👋 About Me
 
 Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and staying updated with the latest technologies in the ever-evolving Linux ecosystem. I have hands-on experience in system administration, containerization, CI/CD pipelines, and much more.
