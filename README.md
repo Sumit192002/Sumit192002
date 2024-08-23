@@ -5,6 +5,8 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit192002&" alt="Sumit192002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit192002&show_icons=true&locale=en" alt="sumit192002" /></p>
+
 
 
 ### 👋 About Me
