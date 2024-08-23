@@ -4,6 +4,9 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit192002&" alt="Sumit192002" /></p>
+
+
 ### 👋 About Me
 
 Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and staying updated with the latest technologies in the ever-evolving Linux ecosystem. I have hands-on experience in system administration, containerization, CI/CD pipelines, and much more.
