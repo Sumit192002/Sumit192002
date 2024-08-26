@@ -71,12 +71,15 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - Showcased expertise and accomplishments in a visually appealing and user-friendly manner, leveraging containerization for efficient deployment.
 
 
+
 #### **Jenkins CI/CD for NGINX Deployment**
 
 **Technologies:** Jenkins, Docker, GitHub
 - Developed a CI/CD pipeline to automate the deployment of an NGINX web server.
 - The pipeline builds a Docker image containing a custom HTML website.
 - Automated process pushes updates from a Git repository and deploys the web server.
+
+
 
 
 #### **Monitoring Zimbra Mail Server with Grafana and Prometheus**
@@ -89,6 +92,9 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Developed Custom Grafana Dashboards:** Created custom Grafana dashboards to visualize key Zimbra metrics, enabling proactive server management and quick issue identification.
 - **Overcame Complex Setup Challenges:** Addressed and resolved installation and configuration challenges, particularly with Prometheus scraping and Grafana dashboard creation, leading to a reliable monitoring infrastructure.
 
+
+
+
 #### **Redis High-availability Master-Slave Set up on 6 VMs**
 **Technologies**: Linux, Redis
 (doc: https://docs.google.com/document/d/1LvQdUBUjhdOwUp-3JB6bFWZZpeRMcWH82AnHQCUIWec/edit?usp=sharing) 
@@ -98,6 +104,9 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Automated Deployment Process:** Developed shell scripts to automate the deployment and configuration of the Redis cluster, improving efficiency and reducing setup time.
 - **Ensured Data Integrity with Failover Testing:** Conducted comprehensive failover tests to validate data integrity and system resilience in the event of master node failure.
 
+
+
+
 #### **Monitoring of Cassandra Database using Grafana**
 **Technologies**: Linux, cassandra, grafana, prometheus
 (doc: https://docs.google.com/document/d/1XMJTNijWwn8-2zwCZz-heEEgWfgraok0wKB69dpLZf4/edit?usp=sharing)
@@ -105,6 +114,9 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Real-Time Monitoring**: Implemented a real-time monitoring system for Apache Cassandra using Grafana, Prometheus, and Node Exporter, ensuring effective tracking of performance metrics and resource utilization.
 - **Centralized Dashboard**: Created a centralized, customizable Grafana dashboard to visualize critical Cassandra metrics, enabling efficient monitoring across multiple nodes and clusters.
 - **Scalable Architecture**: Designed and deployed a scalable architecture that supports the growth of Cassandra clusters and can be extended with additional Prometheus instances and custom metrics.
+
+
+
 
 #### **Monitoring Common Vulnerabilities and Exposures (CVEs) System**
 **Technologies:** Linux, Bash, Node Exporter, Prometheus, Grafana
