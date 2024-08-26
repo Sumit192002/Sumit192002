@@ -62,7 +62,7 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 ---
 
 ### 📂 Major Projects
-
+<br>
 #### **Portfolio Website using React**
 
 **Technologies:** React, Docker
@@ -70,7 +70,7 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - Developed a modern and responsive design with smooth navigation and interactive elements.
 - Showcased expertise and accomplishments in a visually appealing and user-friendly manner, leveraging containerization for efficient deployment.
 
-
+<br>
 
 #### **Jenkins CI/CD for NGINX Deployment**
 
@@ -80,11 +80,11 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - Automated process pushes updates from a Git repository and deploys the web server.
 
 
-
+<br>
 
 #### **Monitoring Zimbra Mail Server with Grafana and Prometheus**
 
-**Technologies**: Linux, Grafana, Prometheus
+**Technologies**: Linux, Grafana, Prometheus <br>
 (doc: https://docs.google.com/document/d/1eZYz2lqwXjPMMTaFfv8_Lswtg6tFKqQR4LbybQnpPAE/edit?usp=sharing)
 
 - **Implemented Comprehensive Monitoring Solution:** Set up a robust monitoring system for a Zimbra Mail Server using Grafana and Prometheus, providing real-time visualization and alerting.
@@ -93,10 +93,10 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Overcame Complex Setup Challenges:** Addressed and resolved installation and configuration challenges, particularly with Prometheus scraping and Grafana dashboard creation, leading to a reliable monitoring infrastructure.
 
 
-
+<br>
 
 #### **Redis High-availability Master-Slave Set up on 6 VMs**
-**Technologies**: Linux, Redis
+**Technologies**: Linux, Redis <br>
 (doc: https://docs.google.com/document/d/1LvQdUBUjhdOwUp-3JB6bFWZZpeRMcWH82AnHQCUIWec/edit?usp=sharing) 
 
 - **Implemented High Availability:** Set up a Redis master-slave architecture across six virtual machines to ensure high availability and data redundancy.
@@ -104,11 +104,11 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Automated Deployment Process:** Developed shell scripts to automate the deployment and configuration of the Redis cluster, improving efficiency and reducing setup time.
 - **Ensured Data Integrity with Failover Testing:** Conducted comprehensive failover tests to validate data integrity and system resilience in the event of master node failure.
 
-
+<br>
 
 
 #### **Monitoring of Cassandra Database using Grafana**
-**Technologies**: Linux, cassandra, grafana, prometheus
+**Technologies**: Linux, cassandra, grafana, prometheus <br> 
 (doc: https://docs.google.com/document/d/1XMJTNijWwn8-2zwCZz-heEEgWfgraok0wKB69dpLZf4/edit?usp=sharing)
 
 - **Real-Time Monitoring**: Implemented a real-time monitoring system for Apache Cassandra using Grafana, Prometheus, and Node Exporter, ensuring effective tracking of performance metrics and resource utilization.
@@ -116,10 +116,10 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 - **Scalable Architecture**: Designed and deployed a scalable architecture that supports the growth of Cassandra clusters and can be extended with additional Prometheus instances and custom metrics.
 
 
-
+<br>
 
 #### **Monitoring Common Vulnerabilities and Exposures (CVEs) System**
-**Technologies:** Linux, Bash, Node Exporter, Prometheus, Grafana
+**Technologies:** Linux, Bash, Node Exporter, Prometheus, Grafana <br>
 (doc: https://docs.google.com/document/d/1PjI2MucKw3LKcaH11lPQ62s7FvUjtISZumRjC8qsbco/edit?usp=sharing)
 
 - **Automated Vulnerability Monitoring:** Developed a comprehensive system for monitoring Common Vulnerabilities and Exposures (CVEs) using a combination of `yum updateinfo list cves`, a custom script, Node Exporter, Prometheus, and Grafana.
