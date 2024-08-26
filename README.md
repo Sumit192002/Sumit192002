@@ -61,8 +61,8 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 ---
 
-### 📂 Major Projects
-<br>
+### 📂 Major Projects <br>
+
 #### **Portfolio Website using React**
 
 **Technologies:** React, Docker
