@@ -44,7 +44,26 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 ---
 
+
 ### 💼 Experience
+
+#### **Aforeserve | Linux System Administrator **
+- Maintained Critical Systems: Managed the DO EDMS Server, a key system for LIC’s policy servicing, ensuring continuous uptime and smooth operation.
+- Batch Processing Automation: Spearheaded the execution and monitoring of batch processing jobs, automating key processes to improve efficiency and reduce manual 
+  intervention.
+- Troubleshooting: Provided expert-level remote support, resolving system-related issues for LIC officials across different locations with minimal downtime.
+- Proactive Infrastructure Management: Regularly monitored and maintained the server infrastructure, ensuring its health, stability, and performance, preventing 
+  outages and reducing downtime.
+- Collaboration with Cross-Functional Teams: Worked closely with LIC officials and various departments to resolve technical challenges and ensure seamless service 
+  delivery.
+- Performance Optimization: Identified and resolved performance bottlenecks within the infrastructure, optimizing server performance for high-load environments.
+- System Security and Backup: Ensured data integrity and security by implementing regular backups and security protocols, reducing the risk of data loss or breach.
+- Documentation and Reporting: Maintained comprehensive documentation of system changes, incident reports, and processes, ensuring that LIC’s technical 
+  infrastructure knowledge is well-preserved.
+- Process Improvement: Continuously identified opportunities for improving system performance and implemented solutions that enhanced operational efficiency.
+- Adherence to SLAs: Ensured all operations complied with Service Level Agreements (SLAs), maintaining high levels of customer satisfaction and operational 
+  reliability.
+  
 
 #### **Prodevans Technologies Bangalore | Intern**
 
