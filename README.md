@@ -104,7 +104,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 #### **Monitoring Zimbra Mail Server with Grafana and Prometheus**
 
 **Technologies**: Linux, Grafana, Prometheus <br>
-(doc: https://docs.google.com/document/d/1eZYz2lqwXjPMMTaFfv8_Lswtg6tFKqQR4LbybQnpPAE/edit?usp=sharing)
 
 - **Implemented Comprehensive Monitoring Solution:** Set up a robust monitoring system for a Zimbra Mail Server using Grafana and Prometheus, providing real-time visualization and alerting.
 - **Configured Zimbra Exporter and Prometheus:** Successfully installed and configured the Zimbra Exporter to feed critical server metrics into Prometheus, ensuring accurate data collection.
@@ -116,7 +115,7 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 #### **Redis High-availability Master-Slave Set up on 6 VMs**
 **Technologies**: Linux, Redis <br>
-(doc: https://docs.google.com/document/d/1LvQdUBUjhdOwUp-3JB6bFWZZpeRMcWH82AnHQCUIWec/edit?usp=sharing) 
+
 
 - **Implemented High Availability:** Set up a Redis master-slave architecture across six virtual machines to ensure high availability and data redundancy.
 - **Configured and Optimized Redis Cluster:** Tuned Redis configurations to enhance performance and maintain seamless data synchronization between master and slave nodes.
@@ -128,7 +127,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 #### **Monitoring of Cassandra Database using Grafana**
 **Technologies**: Linux, cassandra, grafana, prometheus <br> 
-(doc: https://docs.google.com/document/d/1XMJTNijWwn8-2zwCZz-heEEgWfgraok0wKB69dpLZf4/edit?usp=sharing)
 
 - **Real-Time Monitoring**: Implemented a real-time monitoring system for Apache Cassandra using Grafana, Prometheus, and Node Exporter, ensuring effective tracking of performance metrics and resource utilization.
 - **Centralized Dashboard**: Created a centralized, customizable Grafana dashboard to visualize critical Cassandra metrics, enabling efficient monitoring across multiple nodes and clusters.
@@ -139,7 +137,6 @@ Hi there! I'm Sumit Padiyar, a tech enthusiast with a deep love for learning and
 
 #### **Monitoring Common Vulnerabilities and Exposures (CVEs) System**
 **Technologies:** Linux, Bash, Node Exporter, Prometheus, Grafana <br>
-(doc: https://docs.google.com/document/d/1PjI2MucKw3LKcaH11lPQ62s7FvUjtISZumRjC8qsbco/edit?usp=sharing)
 
 - **Automated Vulnerability Monitoring:** Developed a comprehensive system for monitoring Common Vulnerabilities and Exposures (CVEs) using a combination of `yum updateinfo list cves`, a custom script, Node Exporter, Prometheus, and Grafana.
 - **Custom Scripting:** Created a custom Bash script to automate the categorization of CVEs based on severity levels (Critical, High, Medium, and Low) and formatted the data for Prometheus ingestion.
